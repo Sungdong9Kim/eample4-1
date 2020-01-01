@@ -20,5 +20,6 @@ public class MainActivity extends AppCompatActivity {
         System.out.printf("적당한 하이힐 높이는 %1$.2fcm입니다.", high);
 
     }
+    
 
 }
